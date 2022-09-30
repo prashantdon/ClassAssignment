@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        body {text-align:center}
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    table,th, td{
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+</style>
+<body>
+    <div class="container">
+        <table border="-1" height="300" align="center">
+            <tr> <em><b>Table: Class Time Table</b></em>
+                <th bgcolor="gray">Day/Period</th>
+                <th bgcolor="gray">9:30-10:20</th>
+                <th bgcolor="gray">10:20-11:10</th>
+                <th bgcolor="gray">11:10-12:00</th>
+                <th bgcolor="gray">12:00-12:40</th>
+                <th bgcolor="gray">12:40-01:30</th>
+                <th bgcolor="gray">01:30-02:20</th>
+                <th bgcolor="gray">02:20-03:10</th>
+                <th bgcolor="gray">03:10-04:00</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>Maths</td>
+                <td>English</td>
+                <td>Chemistry</td>
+                <td rowspan="6" ><style>
+                    h4 {
+                       text-orientation: upright;
+                       writing-mode: vertical-rl;
+                       
+                       
+                    }
+                 </style><body>
+                    <h4>L U N C H</h4>
+                </body></td>
+                <td colspan="3">Lab</td>
+                <td>Physics</td>
+                </tr>
+            <tr>
+                <td bgcolor="lightgray" >Tuesday</td>  
+                <td bgcolor="lightgray" colspan="3">Lab</td>
+                <td bgcolor="lightgray">English</td>
+                <td bgcolor="lightgray">Maths</td>
+                <td bgcolor="lightgray">Chemestry</td>
+                <td bgcolor="lightgray">Sports</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>Maths</td>
+                <td>Physics</td>
+                <td>English</td>
+                <td>Chemestry</td>
+                <td colspan="3">Library</td>
+            </tr>
+            <tr>
+                <td bgcolor="lightgray">Thursday</td>
+                <td bgcolor="lightgray">Math</td>
+                <td bgcolor="lightgray">English</td>
+                <td bgcolor="lightgray">Chemestry</td>
+                <td bgcolor="lightgray"colspan="3">Lab</td>
+                <td bgcolor="lightgray">Physics</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td colspan="3">Lab</td>
+                <td>Maths</td>
+                <td>English</td>
+                <td>Chemestry</td>
+                <td>Physics</td>
+            </tr>
+            <tr>
+                <td bgcolor="lightgray">Saturday</td>
+                <td bgcolor="lightgray">Maths</td>
+                <td bgcolor="lightgray">English</td>
+                <td bgcolor="lightgray">Chemestry</td>
+                <td bgcolor="lightgray"colspan="3">Seminar</td>
+                <td bgcolor="lightgray">Physics</td>
+            </tr>
+        </table>
+    </div>
+</body>  
+</html>
