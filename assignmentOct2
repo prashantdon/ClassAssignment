@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>
+    <h1>Cricket in India</h1>
+    <h2>How it got started</h2>
+    <p style="font-size:25px;">Cricket was introduced to India by British Sailors in the 18 century, and the first cricket club was established in 1791. India's nattional cricket team played its first Test match on 25 June <br>
+    1932 at Lord's, becoming the sixth team to be granted test cricket status.
+    </p>
+    <h2>Important cricket Tournaments</h2>
+    <ul style="font-size: 25px;">
+        <li>International Events</li>
+            <ol>
+                <li>ICC World Cup</li>
+                <li>ICC Cricket Trophy</li>
+                <li>T-20 World Cup</li>
+            </ol>
+        <li>Domestic Events</li>
+            <ol>
+                <li>IPL</li>
+                <li>Ranji Trophy</li>
+            </ol>
+    </ul>
+    <p style="font-size :25px;">All the above events are no doubt the great events but the most important event is no doubt the 50-50 and T-20 World Cup</p>
+    <h2>Lets have a look at all 50-50 World Cup</h2>
+    <p style="font-size:25px;"></p>
+    </p>
+    <table>
+        <tr>
+            <td align="center" style="font-size:25px;">  Cricket World Cup</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th style="font-size:25px;">Year</th>
+            <th style="font-size:25px;">Winner</th>
+            <th style="font-size:25px;">Score</th>
+            <th style="font-size:25px;">Runner-up</th>
+            <th style="font-size:25px;">Score</th>
+            <th style="font-size:25px;">Result</th>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1975</b></td>
+            <td style="font-size:25px;">West Indies</td>
+            <td style="font-size:25px;">291-8</td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">274</td>
+            <td style="font-size:25px;">West indies won by 17 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1979</b></td>
+            <td style="font-size:25px;">West Indies</td>
+            <td style="font-size:25px;">286-9</td>
+            <td style="font-size:25px;">England</td>
+            <td style="font-size:25px;">194</td>
+            <td style="font-size:25px;">West indies won by 92 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1983</b></td>
+            <td style="font-size:25px;">India</td>
+            <td style="font-size:25px;">183</td>
+            <td style="font-size:25px;">West Indies</td>
+            <td style="font-size:25px;">140</td>
+            <td style="font-size:25px;">India won by 43 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1987</b></td>
+            <td style="font-size:25px;">Australia/td>
+            <td style="font-size:25px;">253-5</td>
+            <td style="font-size:25px;">England</td>
+            <td style="font-size:25px;">246-8</td>
+            <td style="font-size:25px;">Australia won by 7 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1992</b></td>
+            <td style="font-size:25px;">Pakistan</td>
+            <td style="font-size:25px;">249-6</td>
+            <td style="font-size:25px;">England</td>
+            <td style="font-size:25px;">227</td>
+            <td style="font-size:25px;">Pakistan won by 22 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1996</b></td>
+            <td style="font-size:25px;">Sri Lanka</td>
+            <td style="font-size:25px;">245-3</td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">241</td>
+            <td style="font-size:25px;">Sri Lanka won by 7 wickets</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>1999</b></td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">133-2</td>
+            <td style="font-size:25px;">Pakistan</td>
+            <td style="font-size:25px;">132</td>
+            <td style="font-size:25px;"> Australia won by 8 wickets</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>2003</b></td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">359-2</td>
+            <td style="font-size:25px;">India</td>
+            <td style="font-size:25px;">234</td>
+            <td style="font-size:25px;">Australia won by 125 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>2007</b></td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">281-4</td>
+            <td style="font-size:25px;">Sri Lanka</td>
+            <td style="font-size:25px;">215-8</td>
+            <td style="font-size:25px;">Australia won by 53 runs</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>2011</b></td>
+            <td style="font-size:25px;">India</td>
+            <td style="font-size:25px;">277-4</td>
+            <td style="font-size:25px;">Sri Lanka</td>
+            <td style="font-size:25px;">274</td>
+            <td style="font-size:25px;">India won by 6 wickets</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>2015</b></td>
+            <td style="font-size:25px;">Australia</td>
+            <td style="font-size:25px;">186-3</td>
+            <td style="font-size:25px;">New Zealand</td>
+            <td style="font-size:25px;">183</td>
+            <td style="font-size:25px;">Australia won by 7 wickets</td>
+        </tr>
+        <tr>
+            <td style="font-size:25px;"><b>2019</b></td>
+            <td style="font-size:25px;">England</td>
+            <td style="font-size:25px;">241</td>
+            <td style="font-size:25px;">New Zealand</td>
+            <td style="font-size:25px;">241-8</td>
+            <td style="font-size:25px;">England won on boundary count</td>
+        </tr>
+       
+    </table>
+    <p style="font-size: 25px;">This table has been taken from cricket website:<a href="https://www.britannica.com/sports/Cricket-World-Cup">click here </a> to visit <br>
+     I am cricket guru btw, if you want to know something, you can contact me.</p>
+    <p style="font-size: 25px;">Contact Form</p>
+    <label for="name" style="font-size:25px ;">Full Name:</label><br>
+    <input type="text"><br>
+    <label for="email" style="font-size:25px ;">Email:</label><br>
+    <input type="email"><br>
+    <label for="password" style="font-size:25px ;">Password:</label><br>
+    <input type="password"><br>
+    <label for="password" style="font-size:25px ;">Confirm Password:</label><br>
+    <input type="password"><br>
+    <label for="phone number" style="font-size:25px ;">Phone Number:</label><br>
+    <input type="Phone Number"><br>
+    <label for="gender" style="font-size:25px ;">Select Your Gender</label><br>
+    <input type="checkbox">Male<br>
+    <input type="checkbox">Female<br>
+    <input type="checkbox">Others<br>
+    <p style="font-size: 25px;">Select Your Favourite Player</p>
+    <select name="Players" id="select_player">
+        <option value="">--Please choose an option--</option>
+        <option value="Virat Kohli">Virat Kohli</option>
+        <option value="Sachin Tendulkar">Sachin Tendulkar</option>
+        <option value="Rohit Sharma">Rohit Sharma</option>
+    </select><br>
+    <label for="address">Address</label><br>
+    <input type="address"><br>
+    <button>Register</button>
+    
+</body>
+
+</html>
